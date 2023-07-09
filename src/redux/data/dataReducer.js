@@ -1,6 +1,6 @@
 const initialState = {
   loading: false,
-  totalSupply: 2019,
+  totalSupply: 2023,
   cost: 0,
   error: false,
   errorMsg: "",
